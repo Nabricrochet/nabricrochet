@@ -1,0 +1,75 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header nav h1 {
+    font-size: 2.5rem;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+/* Estilos para la sección de bienvenida */
+#bienvenida {
+    background-color: #f4f4f4;
+    padding: 50px 0;
+    text-align: center;
+}
+
+/* Sección de productos */
+#productos {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.productos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.producto {
+    width: 250px;
+    margin: 20px;
+}
+
+.producto img {
+    width: 100%;
+    height: auto;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+/* Contacto y pie de página */
+#contacto, footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
