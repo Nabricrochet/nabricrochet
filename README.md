@@ -24,13 +24,13 @@ Este repositorio contiene el desarrollo de la página web oficial de **Nabricroc
 
 🟡 En desarrollo (fase inicial).  
 Actualmente trabajando en el diseño, estructura y funcionalidades principales del sitio.  
-Próximamente se implementará una **pasarela de pagos** (Culqi, Yape o Stripe).
+Próximamente se implementará una **pasarela de pagos** (Plin, Yape o Visa, Mastercard).
 
 ---
 
 ## 📞 Contacto y redes sociales
 
-👩‍💻 Brigitte Moncón – Fundadora de Nabricrochet  
+👩‍💻 Brigith Treyci – Fundadora de Nabricrochet  
 
 
 📞 WhatsApp: +51 980 469 859  
